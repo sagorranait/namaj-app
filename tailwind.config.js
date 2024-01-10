@@ -11,7 +11,8 @@ export default {
         'secondary': '#F9B44F',
         'black': '#000000',
         'white': '#FFFFFF',
-        'cultured': '#F5F5F5'
+        'cultured': '#F5F5F5',
+        'lightWhite': '#FFFFFF80'
       },
     },
   },
