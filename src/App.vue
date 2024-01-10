@@ -1,11 +1,9 @@
 <script setup>
-
+  import Loading from './components/Loading.vue';
+  import HomeScreen from './screens/Home.vue';
 </script>
 
 <template>
-  <h1>Let's Gooo.</h1>
+  <!-- <Loading/> -->
+  <HomeScreen/>
 </template>
-
-<style scoped>
-
-</style>
